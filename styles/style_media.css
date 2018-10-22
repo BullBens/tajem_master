@@ -1,0 +1,275 @@
+@media screen and (max-width: 1322px) {
+  .footer .footerDiv {
+    width: 100%;
+    margin-left: 0; } }
+@media screen and (max-width: 1298px) {
+  .story {
+    height: 500px; } }
+@media screen and (max-width: 1050px) {
+  .list {
+    display: none; }
+
+  .pos-f-t {
+    display: block;
+    background-color: #6f42c1;
+    position: fixed;
+    z-index: 100;
+    width: 100%; }
+    .pos-f-t .bg-dark {
+      background-color: #483a6d !important; }
+
+  .logo {
+    display: none; }
+
+  .nav {
+    float: none;
+    justify-content: center;
+    margin: 0px; }
+    .nav a {
+      margin-top: 0px;
+      margin-bottom: 0px;
+      font-size: 25px; }
+
+  .slides .carousel {
+    height: 520px; }
+
+  .header {
+    height: 550px; }
+
+  .slides {
+    width: 100%;
+    height: 300px;
+    margin-left: 0;
+    position: static; }
+
+  .carousel {
+    width: 100%;
+    height: 500px; }
+
+  .carousel-item div .text .twoText {
+    font-size: 20px !important;
+    padding: 5px; }
+
+  .story {
+    width: 100%;
+    height: 600px;
+    margin: 0; }
+    .story .storyCenter .one img {
+      margin-top: 167.5px; }
+    .story .storyCenter .two .contentText {
+      font-size: 20px; }
+    .story .storyCenter .two .buttonText button {
+      width: 175px;
+      height: 75px;
+      font-size: 20px; }
+
+  .expertise {
+    display: block;
+    width: 100%;
+    margin-left: 0;
+    height: 750px;
+    text-align: center;
+    justify-content: center; }
+
+  .carousel-item div .text {
+    margin-top: 25px; }
+    .carousel-item div .text .twoText {
+      font-size: 14px;
+      line-height: 25px;
+      text-align: center;
+      color: white; }
+  .carousel-item div .leanMore {
+    width: 100%;
+    text-align: center;
+    margin-top: 25px; }
+    .carousel-item div .leanMore button {
+      width: 175px;
+      height: 75px;
+      text-align: center;
+      font-size: 20px; }
+
+  .team {
+    height: 800px; }
+    .team .text h3 {
+      font-size: 30px; }
+    .team .text h4 {
+      font-size: 20px; }
+    .team .text hr {
+      width: 100px; }
+    .team .people {
+      width: 100%;
+      margin-left: 0; }
+      .team .people .card {
+        width: 220px; }
+    .team button {
+      width: 175px;
+      height: 75px;
+      font-size: 20px; }
+
+  .card-body h5 {
+    font-size: 20px; }
+  .card-body p {
+    font-size: 15px; }
+
+  .expertise {
+    height: 800px; }
+    .expertise .expertText h3 {
+      font-size: 30px !important; }
+    .expertise .expertText h4 {
+      font-size: 20px !important; }
+    .expertise .expertText hr {
+      margin-top: 20px; }
+    .expertise img {
+      width: 100px;
+      height: 100px; }
+    .expertise table tr th .card .card-title {
+      font-size: 20px !important; }
+    .expertise table tr th .card .card-text {
+      font-size: 15px !important; }
+
+  .carousel-indicators {
+    margin-bottom: 0px; }
+
+  .textVideo .tVideo {
+    font-size: 20px; }
+
+  .work h3 {
+    font-size: 30px;
+    margin-top: 60px; }
+
+  .drible h3 {
+    font-size: 20px; }
+    .drible h3 img {
+      width: 10px; }
+
+  .loadWorks button {
+    width: 175px;
+    height: 75px;
+    font-size: 20px; }
+
+  .commentsContent {
+    width: 100%;
+    margin-left: 0; }
+    .commentsContent .contentTextCenter {
+      font-size: 20px; }
+    .commentsContent .contentTextPeople {
+      font-size: 15px; }
+
+  #carousel-control-next .carousel-control-next-icon {
+    margin-left: 10px;
+    margin-top: 12.5px; }
+
+  #carousel-control-prev .carousel-control-prev-icon {
+    margin-left: -25px;
+    margin-top: 12.5px; }
+
+  .mail {
+    width: 100%;
+    margin-left: 0; }
+    .mail .information .submit {
+      height: 75px;
+      width: 175px;
+      font-size: 20px; }
+    .mail .company h3 {
+      padding-left: 70px; }
+    .mail .company table {
+      width: 90%; }
+
+  .footer {
+    height: 500px;
+    background-repeat: inherit;
+    background-size: 300%; }
+    .footer .footerDiv {
+      width: 100%;
+      margin-left: 0; }
+
+  .footerContent-two h1 {
+    font-size: 20px; }
+
+  .footerContent-three h1 {
+    font-size: 20px; }
+
+  .footerContent-four h1 {
+    font-size: 20px; }
+
+  .footerContent-five h1 {
+    font-size: 20px; }
+  .footerContent-five h2 {
+    font-size: 20px; }
+  .footerContent-five img {
+    width: 20px; }
+
+  .footerContent-seven .nav {
+    justify-content: center;
+    float: left; }
+    .footerContent-seven .nav li a {
+      text-align: left;
+      font-size: 20px;
+      margin-top: 100px; }
+
+  .footerContent-nine h1 {
+    margin-top: 100px;
+    font-size: 20px; } }
+@media screen and (max-width: 933px) {
+  .commentsContent .contentTextCenter {
+    font-size: 15px; }
+
+  .header {
+    height: 650px; }
+
+  .slides .carousel {
+    height: 600px; } }
+@media screen and (max-width: 686px) {
+  .story {
+    width: 100%;
+    height: 700px;
+    margin: 0; }
+    .story .storyCenter .one img {
+      margin-top: 167.5px; }
+    .story .storyCenter .two .contentText {
+      font-size: 20px; }
+    .story .storyCenter .two .buttonText button {
+      width: 175px;
+      height: 75px;
+      font-size: 20px; } }
+@media screen and (max-width: 848px) {
+  .cub {
+    height: 200px;
+    display: block; }
+    .cub .iner {
+      height: 100px; }
+
+  .works {
+    height: 550px; }
+
+  .expertise {
+    height: 900px; } }
+@media screen and (max-width: 630px) {
+  .people .card img {
+    height: 150px; }
+
+  .expertise {
+    height: 800px; }
+    .expertise .expertText h3 {
+      font-size: 15px !important; }
+    .expertise .expertText h4 {
+      font-size: 15px !important; }
+    .expertise .expertText hr {
+      margin-top: 20px; }
+    .expertise img {
+      width: 50px;
+      height: 50px; }
+    .expertise table tr th .card .card-title {
+      font-size: 15px !important; }
+    .expertise table tr th .card .card-text {
+      font-size: 10px !important; } }
+@media screen and (max-width: 600px) {
+  .card-body h5 {
+    font-size: 15px; }
+  .card-body p {
+    font-size: 10px; } }
+@media screen and (max-width: 470px) {
+  .expertise {
+    height: 1000px; } }
+
+/*# sourceMappingURL=style_media.css.map */
